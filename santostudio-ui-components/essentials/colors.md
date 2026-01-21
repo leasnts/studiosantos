@@ -1,4 +1,4 @@
-# Color Philosophy - Santos Studio UI Components
+# Color Philosophy - santostudio ui
 
 Color guidelines that avoid AI tool clichés and create distinctive interfaces.
 

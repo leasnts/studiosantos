@@ -1,4 +1,4 @@
-# Design Philosophy - Santos Studio
+# Design Philosophy - santostudio ui
 
 **Léa Santos' core design mindset and principles.**
 

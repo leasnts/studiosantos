@@ -1,4 +1,4 @@
-# Motion & Interactivity - Santos Studio UI Components
+# Motion & Interactivity - santostudio ui
 
 **CRITICAL PRINCIPLE:** All Santos Studio components must feel ALIVE and responsive.
 

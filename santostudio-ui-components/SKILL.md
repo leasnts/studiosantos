@@ -1,11 +1,11 @@
 ---
-name: lili-code-ui
-description: "Create modern UI with Léa Santos' design philosophy - bold aesthetics, 12-20px radius, 6-32px spacing, glassmorphism, motion states, and creative colors that avoid AI clichés"
+name: santostudio-ui
+description: "Create modern UI with santostudio philosophy - bold aesthetics, 12-20px radius, 6-32px spacing, motion states, and creative colors that avoid AI clichés"
 ---
 
-# Lili Code UI
+# Santostudio
 
-Professional design system by Léa Santos (Santos Studio) for bold, modern interfaces that stand out from generic AI-generated designs.
+Professional design system by santostudio for bold, modern interfaces that stand out from generic AI-generated designs.
 
 ## Philosophy
 

@@ -1,4 +1,4 @@
-# Spacing System - Santos Studio UI Components
+# Spacing System - santostudio ui
 
 Consistent spacing scale for professional, breathable interfaces.
 
